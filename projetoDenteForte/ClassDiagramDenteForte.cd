@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="projetoDenteForte.Classes.Agenda">
+    <Position X="2.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAQAAAAQIAIAAAACAgAABAAAgAgBAEAESAAAAIAA=</HashCode>
+      <FileName>Classes\clsAgenda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Classes.Convenio">
+    <Position X="18.25" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQACAAhAAQAIAICAAIAAgAABBAAQAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Classes\clsConvenio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Classes.Funcionario">
+    <Position X="21" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEIQAhAABIAIACAAGAgAABAAAgBAAAABAAAAAAMAA=</HashCode>
+      <FileName>Classes\clsFuncionario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Classes.Paciente">
+    <Position X="4.5" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAQIgIAAAEKggAABAgAAAgAAAAggAAIAICA=</HashCode>
+      <FileName>Classes\clsPaciente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Classes.Produto">
+    <Position X="10" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAAAMAJAAAASEgAAACAAIAAABAAACAgAEYAA=</HashCode>
+      <FileName>Classes\clsProduto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Classes.Usuario">
+    <Position X="7.25" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAMAIAAAAAAoAABAAAAAAQAEAAAAAAAIAA=</HashCode>
+      <FileName>Classes\clsUsuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Classes.Conexao">
+    <Position X="12.75" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Conexao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Classes.Validacao">
+    <Position X="15.5" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Validacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Fornecedor">
+    <Position X="23.75" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAQAAqAIAAAACBoQABAAAIAAAAAADAAAAAIAA=</HashCode>
+      <FileName>Classes\clsFornecedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.frmUsuario" Collapsed="true">
+    <Position X="15.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IGQoAAAAACCCAACAAAKAAAACAQAAAEAAAAAAABAAAQA=</HashCode>
+      <FileName>Formulários\frmUsuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Program" Collapsed="true">
+    <Position X="29.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Formulários.frmAgenda" Collapsed="true">
+    <Position X="22.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JCAgAwAAAiACABCQEAKAEAADQgEAAEAAAgAAAAIAMAA=</HashCode>
+      <FileName>Formulários\frmAgenda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Formulários.frmConvenio" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ICAiAAABDqgCBBCBEAKAIAADQBAIAAYAiAAAMAICMgA=</HashCode>
+      <FileName>Formulários\frmConvenio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Formulários.frmFornecedor" Collapsed="true">
+    <Position X="11.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICAgAgAALioWEBABAEKAIAALQAAABAIADIAQIAICCAA=</HashCode>
+      <FileName>Formulários\frmFornecedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Formulários.frmFuncionario" Collapsed="true">
+    <Position X="18" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICgggMRgAygCABCADAKIIAiDQBYgAAIACIQCMQIQIAA=</HashCode>
+      <FileName>Formulários\frmFuncionario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Formulários.frmLogin" Collapsed="true">
+    <Position X="20.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAAAGAAACAAEACAQAACEAAAAAAAABAAAA=</HashCode>
+      <FileName>Formulários\frmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Formulários.frmPaciente" Collapsed="true">
+    <Position X="24.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICAwgMYhIigaABCAgAKIaBgLQAAABIKAyAQIIAIAAIA=</HashCode>
+      <FileName>Formulários\frmPaciente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Formulários.frmProduto" Collapsed="true">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>MCAgAgAoAiACgBAAASKGCEADQCBAEUAgCgQAAAIAIAQ=</HashCode>
+      <FileName>Formulários\frmProduto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Formulários.mdiMain" Collapsed="true">
+    <Position X="27" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BICCA0kCACAQEAEFCiK2AAICgAkDQEgBCAgAQwAAQEE=</HashCode>
+      <FileName>Formulários\MDIParent1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DenteForte_v2.Apresentacao.frmSplash" Collapsed="true">
+    <Position X="13.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQACAAABAAAASAAAACAAAAIAAAAAAAAABAAAA=</HashCode>
+      <FileName>Formulários\frmSplash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Properties.Resources">
+    <Position X="26.5" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Properties.Settings">
+    <Position X="1" Y="11" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAIAAAAAABAAAAACAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="14.25" Y="12.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Configuration.ApplicationSettingsBase" Collapsed="true">
+    <Position X="1" Y="9.5" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="projetoDenteForte.Formulários.CopyOffrmProduto" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>MCAgAgAoAiACgBAAASKGCEADQCBAEUAgCgQAAAIAIAQ=</HashCode>
+      <FileName>Formulários\frmProduto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projetoDenteForte.Formulários.CopyOffrmFornecedor" Collapsed="true">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICAgAgAALioWEBABAEKAIAALQAAABAIADIAQIAICCAA=</HashCode>
+      <FileName>Formulários\frmFornecedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

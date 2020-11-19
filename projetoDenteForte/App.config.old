@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.1" />
+    </startup>
+	<appSettings>
+		<add key="db_server" value="ANDIAMO-NOTE\SQLEXPRESSPGA"/>
+		<add key="db_database" value="db"/>
+		<add key="db_user" value="sa"/>
+		<add key="db_pass" value="lembrei"/>
+	</appSettings>
+</configuration>
